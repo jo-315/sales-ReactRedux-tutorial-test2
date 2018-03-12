@@ -1,3 +1,1 @@
-* npm install
-* npm run dev
-* http://localhost:8080/ にアクセスし、"It Works!"が出ればOK
+test2のための環境構築済レポジトリ 
